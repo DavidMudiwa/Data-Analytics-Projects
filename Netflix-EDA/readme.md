@@ -4,7 +4,7 @@ This project show cases how I analysed and explored Netflix Data to uncover insi
 
 ## Files
 - [Notebook](https://github.com/DavidMudiwa/Data-Analytics-Projects/blob/main/Netflix-EDA/netflixEDA.ipynb)
-- [Netflix Dataset](./https://www.kaggle.com/datasets/shivamb/netflix-shows)
+- [Netflix Dataset](/https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
 ## Requirements
 - Jupyter Notebook
