@@ -8,3 +8,5 @@ You are employed at an automobile manufacturer, which is currently concerned wit
 In the case that our company plans to expand our market presence on the US market by contracting additional dealerships:
 1. What geographic area should we target
 2. What car models and specifications should our company use for expansion
+
+# Files
