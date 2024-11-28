@@ -10,3 +10,18 @@ In the case that our company plans to expand our market presence on the US marke
 2. What car models and specifications should our company use for expansion
 
 # Files
+[cars_data.ipynb](https://github.com/DavidMudiwa/Data-Analytics-Projects/blob/main/Used%20Car%20Market%20Analysis/cars_data.ipynb)
+[car_prices_data.csv](https://drive.google.com/file/d/1T9amEB03ZVa-_ymJZp0wXhqgftnAzjLW/view)
+
+# Requirements
+- Jupyter Notebooks
+- Python
+
+# Dependencies
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- matpoltlib.ticker
+- statistics
+- warnings
